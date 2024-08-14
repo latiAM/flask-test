@@ -59,7 +59,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 90vh;
   margin: 0;
   background: url("/static/images/papich.jpg") no-repeat center center fixed;
   background-size: cover;
