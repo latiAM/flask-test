@@ -79,7 +79,7 @@
 }
 /* Изображение в центре */
 .center-image {
-  max-width: 600px;
+  max-width: 300px;
   height: auto;
   margin-bottom: 20px;
 }
